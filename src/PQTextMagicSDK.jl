@@ -9,5 +9,6 @@ module PQTextMagicSDK
 
     # export methods -
     export build
+    export api
 
 end # module PQTextMagicSDK
